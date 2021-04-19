@@ -1,2 +1,2 @@
-# vid-cropper
-This source code crops your video easily!
+# vidtrimmer
+This source code trims your video easily!
